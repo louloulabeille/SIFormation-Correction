@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIFormation.IRepository\SIFormation.IRepository.csproj" />
+    <ProjectReference Include="..\SIFormation\SIFormation.Models.csproj" />
+  </ItemGroup>
+
+</Project>
